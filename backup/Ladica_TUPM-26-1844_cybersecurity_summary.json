@@ -1,0 +1,47 @@
+{
+    "target_year": 2019,
+    "total_records": 3000,
+    "incidents_in_target_year": 263,
+    "attack_type_counts": {
+        "Phishing": 45,
+        "Ransomware": 38,
+        "Malware": 43,
+        "Man-in-the-Middle": 44,
+        "SQL Injection": 45,
+        "DDoS": 48
+    },
+    "total_financial_loss": 13134.69,
+    "average_financial_loss": 49.94,
+    "top_5_costliest": [
+        {
+            "Incident ID": "",
+            "Year": "2019",
+            "Attack Type": "Phishing",
+            "Financial Loss (in Million $)": 99.97
+        },
+        {
+            "Incident ID": "",
+            "Year": "2019",
+            "Attack Type": "Man-in-the-Middle",
+            "Financial Loss (in Million $)": 99.53
+        },
+        {
+            "Incident ID": "",
+            "Year": "2019",
+            "Attack Type": "Phishing",
+            "Financial Loss (in Million $)": 99.45
+        },
+        {
+            "Incident ID": "",
+            "Year": "2019",
+            "Attack Type": "Ransomware",
+            "Financial Loss (in Million $)": 99.3
+        },
+        {
+            "Incident ID": "",
+            "Year": "2019",
+            "Attack Type": "SQL Injection",
+            "Financial Loss (in Million $)": 99.2
+        }
+    ]
+}

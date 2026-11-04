@@ -1,0 +1,31 @@
+{
+    "records_processed": 1025,
+    "target_status_class": "2xx",
+    "records_in_target_class": 855,
+    "status_counts": {
+        "200": 847,
+        "206": 8
+    },
+    "top_5_urls": [
+        [
+            "GET /login.php HTTP/1.1",
+            105
+        ],
+        [
+            "GET /home.php HTTP/1.1",
+            91
+        ],
+        [
+            "GET /css/normalize.css HTTP/1.1",
+            39
+        ],
+        [
+            "GET /css/bootstrap.min.css HTTP/1.1",
+            38
+        ],
+        [
+            "GET /css/font-awesome.min.css HTTP/1.1",
+            37
+        ]
+    ]
+}

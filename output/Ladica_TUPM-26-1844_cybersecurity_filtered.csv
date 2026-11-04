@@ -1,0 +1,264 @@
+Incident ID,Year,Attack Type,Financial Loss (in Million $)
+,2019,Phishing,80.53
+,2019,Ransomware,62.19
+,2019,Phishing,88.67
+,2019,Ransomware,30.56
+,2019,Malware,14.01
+,2019,Man-in-the-Middle,39.77
+,2019,Malware,21.72
+,2019,Man-in-the-Middle,10.8
+,2019,Phishing,35.6
+,2019,Phishing,78.19
+,2019,Malware,44.17
+,2019,Man-in-the-Middle,41.32
+,2019,Malware,4.42
+,2019,Phishing,75.23
+,2019,SQL Injection,27.64
+,2019,Ransomware,6.08
+,2019,Man-in-the-Middle,47.67
+,2019,Man-in-the-Middle,95.66
+,2019,Phishing,90.13
+,2019,DDoS,7.87
+,2019,Man-in-the-Middle,53.82
+,2019,DDoS,74.65
+,2019,Phishing,49.14
+,2019,Ransomware,68.02
+,2019,Man-in-the-Middle,27.45
+,2019,DDoS,46.98
+,2019,DDoS,36.86
+,2019,Phishing,10.87
+,2019,Phishing,37.07
+,2019,SQL Injection,56.33
+,2019,Malware,79.24
+,2019,Malware,34.4
+,2019,Ransomware,32.08
+,2019,DDoS,14.53
+,2019,Phishing,99.97
+,2019,Malware,39.83
+,2019,SQL Injection,59.78
+,2019,Phishing,3.0
+,2019,SQL Injection,13.96
+,2019,Ransomware,32.69
+,2019,Ransomware,22.62
+,2019,Phishing,90.67
+,2019,Malware,90.7
+,2019,SQL Injection,88.98
+,2019,Malware,31.04
+,2019,Ransomware,21.95
+,2019,Man-in-the-Middle,28.29
+,2019,Phishing,3.33
+,2019,SQL Injection,96.91
+,2019,SQL Injection,85.13
+,2019,Phishing,75.31
+,2019,Man-in-the-Middle,23.93
+,2019,DDoS,84.89
+,2019,Ransomware,63.45
+,2019,Man-in-the-Middle,75.37
+,2019,SQL Injection,89.48
+,2019,Man-in-the-Middle,99.53
+,2019,DDoS,27.89
+,2019,Man-in-the-Middle,76.03
+,2019,Phishing,93.7
+,2019,SQL Injection,17.81
+,2019,Ransomware,89.81
+,2019,DDoS,81.56
+,2019,Man-in-the-Middle,17.21
+,2019,Phishing,20.13
+,2019,DDoS,95.75
+,2019,Malware,83.84
+,2019,Man-in-the-Middle,75.99
+,2019,DDoS,14.77
+,2019,Malware,71.94
+,2019,Ransomware,61.11
+,2019,Phishing,99.45
+,2019,Phishing,79.79
+,2019,Malware,29.61
+,2019,Phishing,25.75
+,2019,Phishing,60.07
+,2019,Man-in-the-Middle,76.39
+,2019,Malware,9.86
+,2019,Malware,71.92
+,2019,Phishing,28.88
+,2019,Malware,12.04
+,2019,DDoS,80.68
+,2019,Malware,37.03
+,2019,Phishing,9.12
+,2019,Man-in-the-Middle,7.44
+,2019,DDoS,32.06
+,2019,Malware,62.67
+,2019,SQL Injection,78.12
+,2019,SQL Injection,68.44
+,2019,SQL Injection,0.75
+,2019,Man-in-the-Middle,37.16
+,2019,Ransomware,23.63
+,2019,Ransomware,10.1
+,2019,DDoS,29.85
+,2019,Phishing,18.42
+,2019,DDoS,1.27
+,2019,Phishing,21.58
+,2019,Man-in-the-Middle,14.64
+,2019,Malware,46.27
+,2019,DDoS,59.86
+,2019,Man-in-the-Middle,64.8
+,2019,DDoS,78.78
+,2019,Malware,36.66
+,2019,Malware,58.98
+,2019,SQL Injection,64.26
+,2019,Ransomware,43.53
+,2019,Phishing,17.6
+,2019,Malware,31.35
+,2019,Ransomware,90.48
+,2019,Man-in-the-Middle,89.6
+,2019,Ransomware,11.06
+,2019,Man-in-the-Middle,79.33
+,2019,Man-in-the-Middle,89.5
+,2019,Ransomware,60.24
+,2019,SQL Injection,99.2
+,2019,Man-in-the-Middle,73.71
+,2019,Phishing,5.05
+,2019,SQL Injection,79.34
+,2019,SQL Injection,39.58
+,2019,SQL Injection,86.79
+,2019,DDoS,63.63
+,2019,Phishing,84.5
+,2019,Man-in-the-Middle,39.48
+,2019,Phishing,1.13
+,2019,SQL Injection,79.28
+,2019,SQL Injection,16.51
+,2019,Phishing,46.64
+,2019,Malware,6.47
+,2019,DDoS,42.16
+,2019,Man-in-the-Middle,1.72
+,2019,Malware,57.85
+,2019,Ransomware,47.25
+,2019,DDoS,68.4
+,2019,Man-in-the-Middle,76.35
+,2019,SQL Injection,27.91
+,2019,Phishing,10.04
+,2019,Ransomware,10.37
+,2019,DDoS,33.73
+,2019,SQL Injection,96.6
+,2019,DDoS,81.89
+,2019,Malware,93.71
+,2019,DDoS,18.76
+,2019,DDoS,57.52
+,2019,Ransomware,57.9
+,2019,Malware,98.45
+,2019,Ransomware,15.42
+,2019,Man-in-the-Middle,52.8
+,2019,SQL Injection,46.5
+,2019,Malware,21.92
+,2019,DDoS,43.29
+,2019,SQL Injection,15.39
+,2019,Malware,5.88
+,2019,SQL Injection,43.97
+,2019,Ransomware,9.32
+,2019,Ransomware,17.98
+,2019,SQL Injection,24.93
+,2019,Ransomware,15.21
+,2019,DDoS,66.65
+,2019,DDoS,54.63
+,2019,Malware,33.61
+,2019,DDoS,58.96
+,2019,Ransomware,88.63
+,2019,Ransomware,81.97
+,2019,Man-in-the-Middle,81.8
+,2019,SQL Injection,89.81
+,2019,Malware,55.42
+,2019,SQL Injection,98.04
+,2019,Malware,56.94
+,2019,Ransomware,89.41
+,2019,DDoS,52.94
+,2019,Man-in-the-Middle,26.02
+,2019,Phishing,97.32
+,2019,DDoS,44.01
+,2019,Man-in-the-Middle,87.89
+,2019,Ransomware,99.3
+,2019,SQL Injection,3.92
+,2019,SQL Injection,95.54
+,2019,Man-in-the-Middle,6.79
+,2019,DDoS,15.54
+,2019,SQL Injection,67.05
+,2019,Malware,25.19
+,2019,Phishing,33.15
+,2019,Man-in-the-Middle,58.78
+,2019,Ransomware,34.93
+,2019,Man-in-the-Middle,22.94
+,2019,SQL Injection,3.87
+,2019,Man-in-the-Middle,60.04
+,2019,SQL Injection,86.79
+,2019,DDoS,71.22
+,2019,SQL Injection,91.03
+,2019,SQL Injection,77.65
+,2019,DDoS,54.7
+,2019,Phishing,52.47
+,2019,DDoS,13.99
+,2019,SQL Injection,67.42
+,2019,Man-in-the-Middle,29.92
+,2019,DDoS,35.31
+,2019,SQL Injection,56.53
+,2019,Phishing,70.6
+,2019,Ransomware,72.29
+,2019,Phishing,81.47
+,2019,Man-in-the-Middle,17.59
+,2019,SQL Injection,65.85
+,2019,Man-in-the-Middle,15.21
+,2019,DDoS,36.98
+,2019,Malware,11.57
+,2019,SQL Injection,65.47
+,2019,Phishing,73.35
+,2019,Ransomware,87.41
+,2019,Malware,37.3
+,2019,Malware,79.37
+,2019,Man-in-the-Middle,61.01
+,2019,Phishing,55.31
+,2019,Phishing,6.29
+,2019,Ransomware,19.97
+,2019,SQL Injection,78.84
+,2019,Ransomware,65.7
+,2019,SQL Injection,57.4
+,2019,SQL Injection,91.72
+,2019,Phishing,52.18
+,2019,Man-in-the-Middle,42.34
+,2019,Malware,68.54
+,2019,Malware,45.42
+,2019,Phishing,90.91
+,2019,Ransomware,80.18
+,2019,Man-in-the-Middle,27.0
+,2019,Phishing,33.85
+,2019,DDoS,81.91
+,2019,SQL Injection,10.88
+,2019,DDoS,49.88
+,2019,Man-in-the-Middle,98.86
+,2019,Malware,1.05
+,2019,Malware,26.66
+,2019,Malware,4.95
+,2019,DDoS,85.65
+,2019,DDoS,12.13
+,2019,Man-in-the-Middle,6.24
+,2019,Man-in-the-Middle,35.37
+,2019,Ransomware,92.43
+,2019,Malware,8.31
+,2019,DDoS,70.7
+,2019,DDoS,58.3
+,2019,DDoS,33.88
+,2019,Phishing,49.71
+,2019,DDoS,75.84
+,2019,Malware,98.59
+,2019,SQL Injection,26.97
+,2019,Man-in-the-Middle,75.86
+,2019,Phishing,58.38
+,2019,DDoS,44.51
+,2019,Malware,54.26
+,2019,Ransomware,2.27
+,2019,SQL Injection,92.69
+,2019,Phishing,35.61
+,2019,DDoS,52.17
+,2019,DDoS,71.08
+,2019,DDoS,68.1
+,2019,Phishing,8.93
+,2019,Malware,71.84
+,2019,SQL Injection,14.15
+,2019,DDoS,14.98
+,2019,Ransomware,28.14
+,2019,Ransomware,58.6
